@@ -33,3 +33,11 @@ body {
     li a:hover {
         background-color:Grey;
     }
+
+.gegevens
+{
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+
+}
