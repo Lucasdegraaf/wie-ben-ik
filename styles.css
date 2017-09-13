@@ -1,4 +1,7 @@
-body {
+body {font-family: arial;
+
+
+
     background-color:rgb(90,90,90);color:white; }
 
 
@@ -9,7 +12,7 @@ body {
      ul
 
      {
-       min-width:100px;margin:0 auto; max-width:500px;
+       margin:0 auto; max-width:30%;
         list-style-type: none;
         margin: 0 auto;
         padding: 0;
@@ -37,7 +40,7 @@ body {
 .gegevens
 {
   margin: 0 auto;
-  width: 400px;
-  text-align: center;
+  width: 600px;
+  text-align: left;
 
 }
